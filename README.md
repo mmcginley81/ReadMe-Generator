@@ -1,5 +1,5 @@
 
-  # Here
+  # My First Application
 
 ## Table of contents
 ___
@@ -13,29 +13,29 @@ ___
 - [Contact](#Contact)
 
 ## Description: 
-  Now
+  My application will allow users to xxxxxxx.
 
 ## Instillation
 
-  It just installs
+  First users will ensure they have node installed on their computer. Next users will .....
 
 ## Usage
 
-  Sparingly
+  This is an open source application and can be used for personal or commercial purposes.
 
 ## Testing
 
-  None
+  I used mocha.js to test this applicaiton.
 
 ## Contributors
 
-  Dane
+  N/A
 
 ## License
 
-This application is licensed under Facebook
+This application is licensed under Google
 
-![GitHub license](https://img.shields.io/badge/license-Facebook-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-Google-blue.svg)
   
 
 ## Contact

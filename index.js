@@ -1,18 +1,8 @@
 /*
 Psuedo Code
-Assets needed - Description, Table of Contents, Instillation, Usage, License, Contribuiting, Test, Questions
+Assets needed - Description, Table of Contents, Instillation, Usage, License, Contribuitors, Testing, License, Contact Questions
 Need to ask for - Project title, description & above assets
 
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
 */
 const fs = require('fs');
 const path = require('path')
@@ -21,7 +11,6 @@ const generateMarkdown = require('./utils/generateMarkdown')
 // TODO: Include packages needed for this application
 
 // TODO: Create an array of questions for user input
-
 
 const questions = [
     {
@@ -57,7 +46,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        message: 'What testing software did you use?',
+        message: 'Who licensed your application?',
         choices: ['Amazon', 'Facebook', 'Google', 'Twitter']
     },
     {
