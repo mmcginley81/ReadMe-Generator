@@ -1,5 +1,4 @@
-
-  # Here
+# ${data.title}
 
 ## Table of contents
 ___
@@ -13,36 +12,34 @@ ___
 - [Contact](#Contact)
 
 ## Description: 
-  Now
+  ${data.description}
 
 ## Instillation
 
-  It just installs
+  ${data.instillation}
 
 ## Usage
 
-  Sparingly
+  ${data.usage}
 
 ## Testing
 
-  None
+  ${data.testing}
 
 ## Contributors
 
-  Dane
+  ${data.contributors}
 
 ## License
 
-This application is licensed under Facebook
-
-![GitHub license](https://img.shields.io/badge/license-Facebook-blue.svg)
+This application is licensed under ${data.license}
+${renderLicenseBadge(data.license)}
   
 
 ## Contact
 
   If you would like to contact me you can use the links below.
   
-  me@gmail.com
+  ${data.email}
 
-  mmcginley81
-  
+  ${data.github}
