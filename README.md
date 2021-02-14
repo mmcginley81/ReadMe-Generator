@@ -13,19 +13,19 @@ ___
 - [Contact](#Contact)
 
 ## Description: 
-  My application will allow users to xxxxxxx.
+  My application will allow users to xxxxxxxxxxxxx.
 
 ## Instillation
 
-  First users will ensure they have node installed on their computer. Next users will .....
+  Users will need to make sure that node is installed on their computers and then they will install the application by going to xxxxxxxx.
 
 ## Usage
 
-  This is an open source application and can be used for personal or commercial purposes.
+  This application is open source and can be used for personal or commercial purposes.
 
 ## Testing
 
-  I used mocha.js to test this applicaiton.
+  Users can use mocha.js to test their application.
 
 ## Contributors
 
@@ -44,5 +44,5 @@ This application is licensed under Google
   
   me@gmail.com
 
-  mmcginley81
+  mmcginley
   
